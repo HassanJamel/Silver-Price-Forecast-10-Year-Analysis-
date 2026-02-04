@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.kaggle.com/writeups/hassanjameelahmed/silver-prices-analysis-and-forecasting" target="_blank">
+    <img src="Silver Prices Historical Data..jpg" alt="Silver Prices" width="600">
+  </a>
+</p>
+
 # 🪙 Silver Prices Historical Data & 2026 Forecast
 
 [![License: CC0](https://img.shields.io/badge/License-CC0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
@@ -146,3 +152,4 @@ January 2026
 ---
 
 _If you found this dataset helpful, please consider upvoting on Kaggle!_ ⭐
+
